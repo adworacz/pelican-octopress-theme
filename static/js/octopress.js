@@ -81,8 +81,6 @@ function renderDeliciousLinks(items) {
 
 $.domReady(function() {
   testFeatures();
-  wrapFlashVideos();
-  flashVideoFallback();
   addCodeLineNumbers();
   getNav();
   addSidebarToggler();
